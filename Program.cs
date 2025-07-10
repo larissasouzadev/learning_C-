@@ -57,15 +57,15 @@ Console.WriteLine(b.GetType());
 
 
 
-// string x = "12";
-// int y = Convert.ToInt32(x);
-// Console.WriteLine(y);
-// Console.WriteLine("Conversão realizada com sucess!");
-// string x = "12";
-// int y = 0 ;
-// int.TryParse(x, out y);
-// Console.WriteLine(y);
-// Console.WriteLine("Conversão realizada com sucesso!");
+string x = "12";
+int y = Convert.ToInt32(x);
+Console.WriteLine(y);
+Console.WriteLine("Conversão realizada com sucess!");
+string x = "12";
+int y = 0 ;
+int.TryParse(x, out y);
+Console.WriteLine(y);
+Console.WriteLine("Conversão realizada com sucesso!");
 
 
 
