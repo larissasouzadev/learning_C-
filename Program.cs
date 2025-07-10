@@ -92,7 +92,7 @@ using learning_c_.models;
 // {
 //     Console.WriteLine("Desculpe. Não esta quantidade em nosso estoque!");
 // }
- 
+
 
 
 
@@ -141,21 +141,28 @@ using learning_c_.models;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 Calculadora calc = new Calculadora();
 
 calc.Somar(10, 50);
-calc.Subitrair(12, 6);
-calc.Subitrair(85, 63);
-calc.dividir(255, 4);
-calc.Potencia(7, 7);
+calc.dividir(80, 40);
+calc.RaizQuadrada(256);
+calc.Cos(185);
+calc.Seno(90);
+calc.Subitrair(250, 145);
+calc.Tan(65);
+
+
+
+
+
+
+
+
+
+// 
+
+int num = 10;
+Console.WriteLine(num);
+Console.WriteLine("incrementando o 10");
+num = num + 1;
+Console.WriteLine(num);
