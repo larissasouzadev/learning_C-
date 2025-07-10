@@ -1,0 +1,14 @@
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.AssemblyInfoInputs.cache
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.AssemblyInfo.cs
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.csproj.CoreCompileInputs.cache
+C:\Users\kelly\learning_c#\bin\Debug\net9.0\learning_c#.exe
+C:\Users\kelly\learning_c#\bin\Debug\net9.0\learning_c#.deps.json
+C:\Users\kelly\learning_c#\bin\Debug\net9.0\learning_c#.runtimeconfig.json
+C:\Users\kelly\learning_c#\bin\Debug\net9.0\learning_c#.dll
+C:\Users\kelly\learning_c#\bin\Debug\net9.0\learning_c#.pdb
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.dll
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\refint\learning_c#.dll
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.pdb
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.genruntimeconfig.cache
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\ref\learning_c#.dll
