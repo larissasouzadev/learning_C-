@@ -12,3 +12,4 @@ C:\Users\kelly\learning_c#\obj\Debug\net9.0\refint\learning_c#.dll
 C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.pdb
 C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.genruntimeconfig.cache
 C:\Users\kelly\learning_c#\obj\Debug\net9.0\ref\learning_c#.dll
+C:\Users\kelly\learning_c#\obj\Debug\net9.0\learning_c#.sourcelink.json

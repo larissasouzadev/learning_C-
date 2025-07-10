@@ -49,23 +49,23 @@ using learning_c_.models;
 
 
 // cast implicito
-int a =(89 - 9) /2;
-double b = a;
-Console.WriteLine(b);
-Console.WriteLine(b.GetType());
+// int a =(89 - 9) /2;
+// double b = a;
+// Console.WriteLine(b);
+// Console.WriteLine(b.GetType());
 
 
 
 
-string x = "12";
-int y = Convert.ToInt32(x);
-Console.WriteLine(y);
-Console.WriteLine("Conversão realizada com sucess!");
-string x = "12";
-int y = 0 ;
-int.TryParse(x, out y);
-Console.WriteLine(y);
-Console.WriteLine("Conversão realizada com sucesso!");
+// string x = "12";
+// int y = Convert.ToInt32(x);
+// Console.WriteLine(y);
+// Console.WriteLine("Conversão realizada com sucess!");
+// string x = "12";
+// int y = 0 ;
+// int.TryParse(x, out y);
+// Console.WriteLine(y);
+// Console.WriteLine("Conversão realizada com sucesso!");
 
 
 
@@ -137,15 +137,25 @@ Console.WriteLine("Conversão realizada com sucesso!");
 
 
 // not ou negação
-bool choveu =false;
-bool estaTarde = false;
+// 
 
-if (!choveu && !estaTarde)
-{
-    Console.WriteLine("vou pedalar");
 
-}
-else
-{
-    Console.WriteLine("não vou pedalar");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+Calculadora calc = new Calculadora();
+
+calc.Somar(10, 50);
+calc.Subitrair(12, 6);
+calc.Subitrair(85, 63);
+calc.dividir(255, 4);
+calc.Potencia(7, 7);
